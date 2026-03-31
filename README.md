@@ -1,1 +1,1 @@
-# RTA_B.R.
+# Analiza danych w czasie rzeczywistym
